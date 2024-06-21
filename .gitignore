@@ -9,7 +9,7 @@ include/MNN
 resource/models/fp16/
 resource/models/int8/
 resource/models/int4/
-/root/mnn-llm/resource/models/model
+resource/models/model
 src/chat
 Debug/
 Release
